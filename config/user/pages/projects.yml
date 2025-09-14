@@ -1,0 +1,74 @@
+title: 我的项目
+subtitle: 这里展示了我的一些个人网站和有趣项目
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: projects
+
+categories:
+  - name: 个人网站
+    icon: fas fa-code
+    sites:
+      - name: 个人导航站
+        icon: fas fa-compass
+        description: 一个简洁美观的个人导航页面
+        url: "https://nav.gbfun.cc"
+      - name: 个人主页
+        icon: fas fa-house
+        description: 基于Vue3的美观主页
+        url: "https://www.gbfun.cc"
+      - name: 个人博客
+        icon: fas fa-blog
+        description: 使用Hexo搭建的技术博客
+        url: "https://blog.gbfun.cc"
+
+  - name: 有趣项目
+    icon: fas fa-code-branch
+    sites:
+      - name: 博客后台
+        icon: fas fa-q
+        description: 没什么用处的后台界面
+        url: "https://qexo.gbfun.cc/"
+      - name: 博客轻量朋友圈
+        icon: fas fa-circle
+        description: 查找
+        url: "https://fcl.gbfun.cc/"
+      - name: 博客友链服务
+        icon: fas fa-f
+        description: 友链检测连通情况
+        url: https://fca.gbfun.cc/
+      - name: 站点状态检测
+        icon: fas fa-rotate-right
+        description: 博客相关服务状态检测
+        url: https://status.gbfun.cc/
+      - name: Umami
+        icon: fas fa-bowl-rice
+        description: 站点访问分析
+        url: https://umami.gbfun.cc/
+      - name: Mini-cover
+        icon: fas fa-c
+        description: 文章封面制作
+        url: https://cover.gbfun.cc/
+      - name: 每日一图
+        icon: fas fa-image
+        description: 通过必应每日一图爬取
+        url: https://bing.gbfun.cc/
+      - name: 聚合推送平台
+        icon: fas fa-upload
+        description: 可爱又强大的消息推送服务
+        url: https://push.gbfun.cc/
+      - name: 临时邮箱服务
+        icon: fas fa-envelope
+        description: 临时邮箱
+        url: https://mail.gbfun.cc/
+      - name: 新闻热点聚合
+        icon: fas fa-newspaper
+        description: 集百家之长
+        url: https://news.gbfun.cc/
+      - name: Han Analytics
+        icon: fas fa-h
+        description: 站点访问分析,备用
+        url: https://ha.gbfun.cc/
+      - name: NodeCrypt
+        icon: fas fa-comments
+        description: 端对端加密聊天室
+        url: https://chat.252156.xyz/

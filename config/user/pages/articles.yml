@@ -1,0 +1,37 @@
+title: 技术文章
+subtitle: 分享我的技术文章和学习笔记
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: articles
+
+categories:
+  - name: 精选文章
+    icon: fas fa-pen
+    sites:
+      - name: 仿 Heo 部分元素添加卡片式信息外框
+        icon: fas fa-tag
+        description: 适用安知鱼的美化样式
+        url: "https://blog.gbfun.cc/posts/e3515228.html"
+      - name: anzhiyu 主题文章板块中关于原创与判定的实现逻辑问题
+        icon: fas fa-tag
+        description: 安知鱼主题的修复
+        url: "https://blog.gbfun.cc/posts/6d59bdb1.html"
+      - name: 借助云服务器搭建穿透服务
+        icon: fas fa-tag
+        description: 搭建FRP实现开服需求
+        url: "https://blog.gbfun.cc/posts/34f45ae4.html"
+      - name: 如何移植 Solitude 主题中的十年之约进度条至 anzhiyu 主题
+        icon: fas fa-tag
+        description: 适用安知鱼的美化样式
+        url: "https://blog.gbfun.cc/posts/5498433.html"
+  - name: 学习笔记
+    icon: fas fa-book
+    sites:
+      - name: 本地翻译模型部署 (个人随笔)
+        icon: fas fa-clipboard
+        description: 部署本地模型
+        url: "https://blog.gbfun.cc/posts/9fcec3f.html"
+      - name: 关于个人备案心得
+        icon: fas fa-clipboard
+        description: 网站备案记录
+        url: "https://blog.gbfun.cc/posts/7a45d360.html"

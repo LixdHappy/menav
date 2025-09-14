@@ -1,0 +1,33 @@
+title: 友情链接
+subtitle: 优秀的博主和朋友们
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: friends
+
+categories:
+  - name: 推荐博主
+    icon: fas fa-user-friends
+    sites:
+      - name: 张洪Heo
+        icon: fas fa-code
+        description: 分享设计与科技生活
+        url: "https://blog.zhheo.com/"
+      - name: 伍柒柒
+        icon: fas fa-paint-brush
+        description: 分享设计与科技生活
+        url: "https://blog.efu.me/"
+      - name: 安知鱼
+        icon: fas fa-server
+        description: 生活明朗，万物可爱
+        url: "https://blog.anheyu.com/"
+  - name: 技术社区
+    icon: fas fa-laptop-code
+    sites:
+      - name: GitHub
+        icon: fab fa-github
+        description: 开源代码托管平台
+        url: https://github.com
+      - name: Stack Overflow
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+        url: https://stackoverflow.com
